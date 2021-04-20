@@ -110,6 +110,7 @@ html{
     padding-left: 30px;
     padding-top: 30px;
     width: 70%;
+    padding-right: 30px;
     text-align: left;
     font-family: 'Nunito', sans-serif;
 }
@@ -211,6 +212,18 @@ html{
         display: none;
     }
     .view{
+        width: 100%;
+    }
+    .titleView{
+        width: 100%;
+    }
+    .subTitleView{
+        width: 100%;
+    }
+    .textINfo{
+        display: none;
+    }
+    .submit{
         width: 100%;
     }
 }
